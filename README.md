@@ -85,3 +85,7 @@ For support, please open an issue in the GitHub repository.
 ---
 
 *Note: This is a prototype application and not a substitute for professional medical advice. Always consult with a healthcare professional for medical concerns.*
+
+
+## Workflow
+![DocRoom Workflow](https://raw.githubusercontent.com/Praneethkr2003/doc-room/main/docs/docroom-workflow.png)
