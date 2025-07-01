@@ -88,4 +88,4 @@ For support, please open an issue in the GitHub repository.
 
 
 ## Workflow
-![DocRoom Workflow](https://raw.githubusercontent.com/Praneethkr2003/doc-room/main/docs/docroom-workflow.png)
+![Image](https://github.com/user-attachments/assets/4f71f446-b0fc-40de-b4b6-7a839802a9cc)
